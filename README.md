@@ -7,6 +7,7 @@ This repository provides a PyTorch implementation of our work submited at ISBI 2
 - **Model**: SAMIHS: A parameter-efficient fine-tuning (PEFT) method 
 - **Task**: To adapt the Segment Anything Model (SAM) to intracranial hemorrhage segmentation.
 - **Ideas**: The parameter-refactoring adapters and boundary-sensitive loss are incorporated in SAMIHS to improve both efficiency and accuracy.
+<p align="center"><img width="80%" src="fig/overview.png" /></p>
 
 ## Updates
 
