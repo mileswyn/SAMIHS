@@ -46,13 +46,11 @@ Before testing, don't forget modify the "load_path" (the path of your trained mo
 ## Citation
 If our SAMIHS is helpful to you, please consider citing our [paper](https://arxiv.org/abs/2311.08190):
 ```
-@misc{wang2023samihs,
-      title={SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation}, 
-      author={Yinuo Wang and Kai Chen and Weimin Yuan and Cai Meng and XiangZhi Bai},
-      year={2023},
-      eprint={2311.08190},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{wang2023samihs,
+  title={SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation},
+  author={Wang, Yinuo and Chen, Kai and Yuan, Weimin and Meng, Cai and Bai, XiangZhi},
+  journal={arXiv preprint arXiv:2311.08190},
+  year={2023}
 }
 ```
 
