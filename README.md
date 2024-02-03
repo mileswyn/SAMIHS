@@ -1,7 +1,7 @@
 ## [SAMIHS: Adaptation of Segment Anything Model for Efficient Intracranial Hemorrhage Segmentation]
 #### by Yinuo Wang, Kai Chen, Weimin Yuan, Cai Meng, Xiangzhi Bai
 
-This repository provides a PyTorch implementation of our work submited at ISBI 2024 --> [[**arXiv**]](https://arxiv.org/abs/2311.08190)
+This repository provides a PyTorch implementation of our work accepted by ISBI 2024 --> [[**arXiv**]](https://arxiv.org/abs/2311.08190)
 
 ## Overview
 - **Model**: SAMIHS: A parameter-efficient fine-tuning (PEFT) method 
